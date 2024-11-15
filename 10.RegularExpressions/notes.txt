@@ -1,0 +1,7 @@
+to check a regular expression - bottom up approach 
+
+create an array of False from p+1 to s + 1
+set the first element as True
+
+run through p and check if star 
+make the 0 row where star is equal to 
