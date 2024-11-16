@@ -1,0 +1,32 @@
+{
+
+}
+
+758 
+
+ numbers = [8,5,7]
+
+ mul = [1, 10 , 100 , 1000 , 10000]
+
+ for i, num in enumerate(numbers):
+    multiplier = 10^i
+    conv = multiplier * num
+    for i in range(len(values)):
+           if(conv > values[i])
+                conv -= values[i]
+
+
+values {
+    1000: m
+    900 : cm
+    500 : d
+    400 : cd
+    100 : c
+    90  : xc
+    50: l
+    40 : xl
+    10: x
+    9: ix
+    4: iv
+    1: i
+}
