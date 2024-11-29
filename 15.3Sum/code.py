@@ -25,4 +25,4 @@ class Solution(object):
                     left += 1
                 else:
                     right -= 1
-        return result  # This was the main issue - return was inside the loop
+        return result 
